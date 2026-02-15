@@ -1,0 +1,231 @@
+{
+  "period": "3year",
+  "sample_size": 156,
+  "data": [
+    {
+      "number": 38,
+      "frequency": 31,
+      "percentage": 19.87
+    },
+    {
+      "number": 6,
+      "frequency": 30,
+      "percentage": 19.23
+    },
+    {
+      "number": 3,
+      "frequency": 29,
+      "percentage": 18.59
+    },
+    {
+      "number": 7,
+      "frequency": 29,
+      "percentage": 18.59
+    },
+    {
+      "number": 16,
+      "frequency": 29,
+      "percentage": 18.59
+    },
+    {
+      "number": 30,
+      "frequency": 28,
+      "percentage": 17.95
+    },
+    {
+      "number": 27,
+      "frequency": 26,
+      "percentage": 16.67
+    },
+    {
+      "number": 19,
+      "frequency": 25,
+      "percentage": 16.03
+    },
+    {
+      "number": 33,
+      "frequency": 25,
+      "percentage": 16.03
+    },
+    {
+      "number": 37,
+      "frequency": 25,
+      "percentage": 16.03
+    },
+    {
+      "number": 40,
+      "frequency": 25,
+      "percentage": 16.03
+    },
+    {
+      "number": 24,
+      "frequency": 24,
+      "percentage": 15.38
+    },
+    {
+      "number": 28,
+      "frequency": 24,
+      "percentage": 15.38
+    },
+    {
+      "number": 35,
+      "frequency": 24,
+      "percentage": 15.38
+    },
+    {
+      "number": 13,
+      "frequency": 23,
+      "percentage": 14.74
+    },
+    {
+      "number": 1,
+      "frequency": 22,
+      "percentage": 14.1
+    },
+    {
+      "number": 21,
+      "frequency": 22,
+      "percentage": 14.1
+    },
+    {
+      "number": 31,
+      "frequency": 22,
+      "percentage": 14.1
+    },
+    {
+      "number": 12,
+      "frequency": 21,
+      "percentage": 13.46
+    },
+    {
+      "number": 23,
+      "frequency": 21,
+      "percentage": 13.46
+    },
+    {
+      "number": 26,
+      "frequency": 21,
+      "percentage": 13.46
+    },
+    {
+      "number": 45,
+      "frequency": 21,
+      "percentage": 13.46
+    },
+    {
+      "number": 9,
+      "frequency": 20,
+      "percentage": 12.82
+    },
+    {
+      "number": 4,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 10,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 11,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 20,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 22,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 34,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 36,
+      "frequency": 19,
+      "percentage": 12.18
+    },
+    {
+      "number": 15,
+      "frequency": 18,
+      "percentage": 11.54
+    },
+    {
+      "number": 29,
+      "frequency": 18,
+      "percentage": 11.54
+    },
+    {
+      "number": 32,
+      "frequency": 18,
+      "percentage": 11.54
+    },
+    {
+      "number": 44,
+      "frequency": 18,
+      "percentage": 11.54
+    },
+    {
+      "number": 8,
+      "frequency": 17,
+      "percentage": 10.9
+    },
+    {
+      "number": 14,
+      "frequency": 17,
+      "percentage": 10.9
+    },
+    {
+      "number": 17,
+      "frequency": 17,
+      "percentage": 10.9
+    },
+    {
+      "number": 18,
+      "frequency": 17,
+      "percentage": 10.9
+    },
+    {
+      "number": 41,
+      "frequency": 16,
+      "percentage": 10.26
+    },
+    {
+      "number": 42,
+      "frequency": 16,
+      "percentage": 10.26
+    },
+    {
+      "number": 39,
+      "frequency": 15,
+      "percentage": 9.62
+    },
+    {
+      "number": 43,
+      "frequency": 14,
+      "percentage": 8.97
+    },
+    {
+      "number": 25,
+      "frequency": 13,
+      "percentage": 8.33
+    },
+    {
+      "number": 2,
+      "frequency": 11,
+      "percentage": 7.05
+    },
+    {
+      "number": 5,
+      "frequency": 11,
+      "percentage": 7.05
+    }
+  ]
+}
